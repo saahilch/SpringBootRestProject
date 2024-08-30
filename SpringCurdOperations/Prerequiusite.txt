@@ -1,0 +1,4 @@
+install reactstrap dependencies from https://reactstrap.github.io/?path=/story/home-installation--page
+ -- npm install bootstrap reactstrap --
+install react-toastify
+install axios 
